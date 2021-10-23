@@ -1,0 +1,97 @@
+symptom,Category,action_title_1
+Chilles,Temperature,주의사항
+High Body Temp,Temperature,주의사항
+Low Body Temp,Temperature,주의사항
+Shivering,Temperature,주의사항
+Agitation,Neurological,주의사항
+Dizziness,Neurological,주의사항
+drowsiness,Neurological,주의사항
+"fatigue/
+weakness",Neurological,주의사항
+Headaches,Neurological,흡입/섭취
+Lack of coordination,Neurological,주의사항
+Lower Mentatl State,Neurological,주의사항
+"Numbness/
+tingling",Neurological,주의사항
+Paralysis,Neurological,주의사항
+Slurred Speech,Neurological,주의사항
+"Spasm/
+seizures",Neurological,주의사항
+unresponsive,Neurological,주의사항
+Hearing Loss,Ears,주의사항
+Tinnitus,Ears,주의사항
+Constricted Pupils,Eyes ,눈
+Dilated Pupils,Eyes ,눈
+"Eye irritation/
+redness",Eyes ,눈
+Eye Swelling,Eyes ,눈
+Impaired Vision,Eyes ,눈
+Light Sensitivity,Eyes ,눈
+Tearing,Eyes ,눈
+Vision Loss,Eyes ,눈
+Bloddy Nose,Nose ,흡입
+Nosal Irritation,Nose ,흡입
+Runny nose,Nose ,흡입
+Sneezing,Nose ,흡입
+"Coughing/
+chocking",Mouth/Throat,흡입/섭취
+"Drooling/
+Salivation",Mouth/Throat,흡입/섭취
+"Dry mouth/
+throat",Mouth/Throat,흡입/섭취
+Mouth irritation,Mouth/Throat,흡입/섭취
+Throat irritation,Mouth/Throat,흡입/섭취
+Arrythmia,Cardiovascular,주의사항
+Bradycardia,Cardiovascular,주의사항
+Chest pain,Cardiovascular,주의사항
+Hypertension,Cardiovascular,주의사항
+Hypotension/Shock,Cardiovascular,주의사항
+"Hypoxia/
+Cyanosis",Cardiovascular,주의사항
+Tachycardia,Cardiovascular,주의사항
+Chest Discomfort,Respiratory,흡입
+Congestion,Respiratory,흡입
+"Coughing/
+Chocking",Respiratory,흡입
+Coughing Blood,Respiratory,흡입
+"Hypoxia/
+cyanosis",Respiratory,흡입
+Irregular Breathing,Respiratory,흡입
+Pulmonary Edema,Respiratory,흡입
+Rapid Breathing,Respiratory,흡입
+"Resp burning/
+irritation",Respiratory,흡입
+Respiratory Arrest,Respiratory,흡입
+Shortness of Breathing,Respiratory,흡입
+Slow Breathing,Respiratory,흡입
+Sneezing,Respiratory,흡입
+Wheezing,Respiratory,흡입
+Abdom. Discomfort,Gastro/Urinary,흡입/섭취
+Abdom. Distension,Gastro/Urinary,흡입/섭취
+Diarrhea,Gastro/Urinary,흡입/섭취
+Nausea,Gastro/Urinary,흡입/섭취
+Urinary incontinence,Gastro/Urinary,흡입/섭취
+"Urinary pain/
+burning",Gastro/Urinary,흡입/섭취
+"Urination, bloody",Gastro/Urinary,흡입/섭취
+Vomiting,Gastro/Urinary,흡입/섭취
+Vomiting Blood,Gastro/Urinary,흡입/섭취
+Blistering,Skin,피부
+"Cyanosis/
+blue",Skin,피부
+Dry skin,Skin,피부
+Frostbite,Skin,피부
+itching,Skin,피부
+"Jaundice/
+yellow",Skin,피부
+"Numbness/
+tingling",Skin,피부
+Pale,Skin,피부
+"Peeling/
+exfoliation",Skin,피부
+Rash,Skin,피부
+"Skin burns/
+burning",Skin,피부
+Skin redness,Skin,피부
+Skin sweling,Skin,피부
+Sweating,Skin,피부
