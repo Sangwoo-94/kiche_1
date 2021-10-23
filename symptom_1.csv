@@ -1,97 +1,97 @@
 symptom,Category,action_title_1
-Chilles,Temperature,¡÷¿«ªÁ«◊
-High Body Temp,Temperature,¡÷¿«ªÁ«◊
-Low Body Temp,Temperature,¡÷¿«ªÁ«◊
-Shivering,Temperature,¡÷¿«ªÁ«◊
-Agitation,Neurological,¡÷¿«ªÁ«◊
-Dizziness,Neurological,¡÷¿«ªÁ«◊
-drowsiness,Neurological,¡÷¿«ªÁ«◊
+Chilles,Temperature,caution
+High Body Temp,Temperature,caution
+Low Body Temp,Temperature,caution
+Shivering,Temperature,caution
+Agitation,Neurological,caution
+Dizziness,Neurological,caution
+drowsiness,Neurological,caution
 "fatigue/
-weakness",Neurological,¡÷¿«ªÁ«◊
-Headaches,Neurological,»Ì¿‘/º∑√Î
-Lack of coordination,Neurological,¡÷¿«ªÁ«◊
-Lower Mentatl State,Neurological,¡÷¿«ªÁ«◊
+weakness",Neurological,caution
+Headaches,Neurological,inhalation/ingestion
+Lack of coordination,Neurological,caution
+Lower Mentatl State,Neurological,caution
 "Numbness/
-tingling",Neurological,¡÷¿«ªÁ«◊
-Paralysis,Neurological,¡÷¿«ªÁ«◊
-Slurred Speech,Neurological,¡÷¿«ªÁ«◊
+tingling",Neurological,caution
+Paralysis,Neurological,caution
+Slurred Speech,Neurological,caution
 "Spasm/
-seizures",Neurological,¡÷¿«ªÁ«◊
-unresponsive,Neurological,¡÷¿«ªÁ«◊
-Hearing Loss,Ears,¡÷¿«ªÁ«◊
-Tinnitus,Ears,¡÷¿«ªÁ«◊
-Constricted Pupils,Eyes ,¥´
-Dilated Pupils,Eyes ,¥´
+seizures",Neurological,caution
+unresponsive,Neurological,caution
+Hearing Loss,Ears,caution
+Tinnitus,Ears,caution
+Constricted Pupils,Eyes ,eyes
+Dilated Pupils,Eyes ,eyes
 "Eye irritation/
-redness",Eyes ,¥´
-Eye Swelling,Eyes ,¥´
-Impaired Vision,Eyes ,¥´
-Light Sensitivity,Eyes ,¥´
-Tearing,Eyes ,¥´
-Vision Loss,Eyes ,¥´
-Bloddy Nose,Nose ,»Ì¿‘
-Nosal Irritation,Nose ,»Ì¿‘
-Runny nose,Nose ,»Ì¿‘
-Sneezing,Nose ,»Ì¿‘
+redness",Eyes ,eyes
+Eye Swelling,Eyes ,eyes
+Impaired Vision,Eyes ,eyes
+Light Sensitivity,Eyes ,eyes
+Tearing,Eyes ,eyes
+Vision Loss,Eyes ,eyes
+Bloddy Nose,Nose ,inhale
+Nosal Irritation,Nose ,inhale
+Runny nose,Nose ,inhale
+Sneezing,Nose ,inhale
 "Coughing/
-chocking",Mouth/Throat,»Ì¿‘/º∑√Î
+chocking",Mouth/Throat,inhalation/ingestion
 "Drooling/
-Salivation",Mouth/Throat,»Ì¿‘/º∑√Î
+Salivation",Mouth/Throat,inhalation/ingestion
 "Dry mouth/
-throat",Mouth/Throat,»Ì¿‘/º∑√Î
-Mouth irritation,Mouth/Throat,»Ì¿‘/º∑√Î
-Throat irritation,Mouth/Throat,»Ì¿‘/º∑√Î
-Arrythmia,Cardiovascular,¡÷¿«ªÁ«◊
-Bradycardia,Cardiovascular,¡÷¿«ªÁ«◊
-Chest pain,Cardiovascular,¡÷¿«ªÁ«◊
-Hypertension,Cardiovascular,¡÷¿«ªÁ«◊
-Hypotension/Shock,Cardiovascular,¡÷¿«ªÁ«◊
+throat",Mouth/Throat,inhalation/ingestion
+Mouth irritation,Mouth/Throat,inhalation/ingestion
+Throat irritation,Mouth/Throat,inhalation/ingestion
+Arrythmia,Cardiovascular,caution
+Bradycardia,Cardiovascular,caution
+Chest pain,Cardiovascular,caution
+Hypertension,Cardiovascular,caution
+Hypotension/Shock,Cardiovascular,caution
 "Hypoxia/
-Cyanosis",Cardiovascular,¡÷¿«ªÁ«◊
-Tachycardia,Cardiovascular,¡÷¿«ªÁ«◊
-Chest Discomfort,Respiratory,»Ì¿‘
-Congestion,Respiratory,»Ì¿‘
+Cyanosis",Cardiovascular,caution
+Tachycardia,Cardiovascular,caution
+Chest Discomfort,Respiratory,inhale
+Congestion,Respiratory,inhale
 "Coughing/
-Chocking",Respiratory,»Ì¿‘
-Coughing Blood,Respiratory,»Ì¿‘
+Chocking",Respiratory,inhale
+Coughing Blood,Respiratory,inhale
 "Hypoxia/
-cyanosis",Respiratory,»Ì¿‘
-Irregular Breathing,Respiratory,»Ì¿‘
-Pulmonary Edema,Respiratory,»Ì¿‘
-Rapid Breathing,Respiratory,»Ì¿‘
+cyanosis",Respiratory,inhale
+Irregular Breathing,Respiratory,inhale
+Pulmonary Edema,Respiratory,inhale
+Rapid Breathing,Respiratory,inhale
 "Resp burning/
-irritation",Respiratory,»Ì¿‘
-Respiratory Arrest,Respiratory,»Ì¿‘
-Shortness of Breathing,Respiratory,»Ì¿‘
-Slow Breathing,Respiratory,»Ì¿‘
-Sneezing,Respiratory,»Ì¿‘
-Wheezing,Respiratory,»Ì¿‘
-Abdom. Discomfort,Gastro/Urinary,»Ì¿‘/º∑√Î
-Abdom. Distension,Gastro/Urinary,»Ì¿‘/º∑√Î
-Diarrhea,Gastro/Urinary,»Ì¿‘/º∑√Î
-Nausea,Gastro/Urinary,»Ì¿‘/º∑√Î
-Urinary incontinence,Gastro/Urinary,»Ì¿‘/º∑√Î
+irritation",Respiratory,inhale
+Respiratory Arrest,Respiratory,inhale
+Shortness of Breathing,Respiratory,inhale
+Slow Breathing,Respiratory,inhale
+Sneezing,Respiratory,inhale
+Wheezing,Respiratory,inhale
+Abdom. Discomfort,Gastro/Urinary,inhalation/ingestion
+Abdom. Distension,Gastro/Urinary,inhalation/ingestion
+Diarrhea,Gastro/Urinary,inhalation/ingestion
+Nausea,Gastro/Urinary,inhalation/ingestion
+Urinary incontinence,Gastro/Urinary,inhalation/ingestion
 "Urinary pain/
-burning",Gastro/Urinary,»Ì¿‘/º∑√Î
-"Urination, bloody",Gastro/Urinary,»Ì¿‘/º∑√Î
-Vomiting,Gastro/Urinary,»Ì¿‘/º∑√Î
-Vomiting Blood,Gastro/Urinary,»Ì¿‘/º∑√Î
-Blistering,Skin,««∫Œ
+burning",Gastro/Urinary,inhalation/ingestion
+"Urination, bloody",Gastro/Urinary,inhalation/ingestion
+Vomiting,Gastro/Urinary,inhalation/ingestion
+Vomiting Blood,Gastro/Urinary,inhalation/ingestion
+Blistering,Skin,skin
 "Cyanosis/
-blue",Skin,««∫Œ
-Dry skin,Skin,««∫Œ
-Frostbite,Skin,««∫Œ
-itching,Skin,««∫Œ
+blue",Skin,skin
+Dry skin,Skin,skin
+Frostbite,Skin,skin
+itching,Skin,skin
 "Jaundice/
-yellow",Skin,««∫Œ
+yellow",Skin,skin
 "Numbness/
-tingling",Skin,««∫Œ
-Pale,Skin,««∫Œ
+tingling",Skin,skin
+Pale,Skin,skin
 "Peeling/
-exfoliation",Skin,««∫Œ
-Rash,Skin,««∫Œ
+exfoliation",Skin,skin
+Rash,Skin,skin
 "Skin burns/
-burning",Skin,««∫Œ
-Skin redness,Skin,««∫Œ
-Skin sweling,Skin,««∫Œ
-Sweating,Skin,««∫Œ
+burning",Skin,skin
+Skin redness,Skin,skin
+Skin sweling,Skin,skin
+Sweating,Skin,skin
