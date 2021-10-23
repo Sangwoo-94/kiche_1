@@ -6,24 +6,20 @@ Shivering,Temperature,caution
 Agitation,Neurological,caution
 Dizziness,Neurological,caution
 drowsiness,Neurological,caution
-"fatigue/
-weakness",Neurological,caution
+fatigue/weakness,Neurological,caution
 Headaches,Neurological,inhalation/ingestion
 Lack of coordination,Neurological,caution
 Lower Mentatl State,Neurological,caution
-"Numbness/
-tingling",Neurological,caution
+Numbness/tingling,Neurological,caution
 Paralysis,Neurological,caution
 Slurred Speech,Neurological,caution
-"Spasm/
-seizures",Neurological,caution
+Spasm/seizures,Neurological,caution
 unresponsive,Neurological,caution
 Hearing Loss,Ears,caution
 Tinnitus,Ears,caution
 Constricted Pupils,Eyes ,eyes
 Dilated Pupils,Eyes ,eyes
-"Eye irritation/
-redness",Eyes ,eyes
+Eye irritation/redness,Eyes ,eyes
 Eye Swelling,Eyes ,eyes
 Impaired Vision,Eyes ,eyes
 Light Sensitivity,Eyes ,eyes
@@ -33,12 +29,9 @@ Bloddy Nose,Nose ,inhale
 Nosal Irritation,Nose ,inhale
 Runny nose,Nose ,inhale
 Sneezing,Nose ,inhale
-"Coughing/
-chocking",Mouth/Throat,inhalation/ingestion
-"Drooling/
-Salivation",Mouth/Throat,inhalation/ingestion
-"Dry mouth/
-throat",Mouth/Throat,inhalation/ingestion
+Coughing/chocking,Mouth/Throat,inhalation/ingestion
+Drooling/Salivation,Mouth/Throat,inhalation/ingestion
+Dry mouth/throat,Mouth/Throat,inhalation/ingestion
 Mouth irritation,Mouth/Throat,inhalation/ingestion
 Throat irritation,Mouth/Throat,inhalation/ingestion
 Arrythmia,Cardiovascular,caution
@@ -46,21 +39,17 @@ Bradycardia,Cardiovascular,caution
 Chest pain,Cardiovascular,caution
 Hypertension,Cardiovascular,caution
 Hypotension/Shock,Cardiovascular,caution
-"Hypoxia/
-Cyanosis",Cardiovascular,caution
+Hypoxia/Cyanosis,Cardiovascular,caution
 Tachycardia,Cardiovascular,caution
 Chest Discomfort,Respiratory,inhale
 Congestion,Respiratory,inhale
-"Coughing/
-Chocking",Respiratory,inhale
+Coughing/Chocking,Respiratory,inhale
 Coughing Blood,Respiratory,inhale
-"Hypoxia/
-cyanosis",Respiratory,inhale
+Hypoxia/cyanosis,Respiratory,inhale
 Irregular Breathing,Respiratory,inhale
 Pulmonary Edema,Respiratory,inhale
 Rapid Breathing,Respiratory,inhale
-"Resp burning/
-irritation",Respiratory,inhale
+Resp burning/irritation,Respiratory,inhale
 Respiratory Arrest,Respiratory,inhale
 Shortness of Breathing,Respiratory,inhale
 Slow Breathing,Respiratory,inhale
@@ -71,27 +60,21 @@ Abdom. Distension,Gastro/Urinary,inhalation/ingestion
 Diarrhea,Gastro/Urinary,inhalation/ingestion
 Nausea,Gastro/Urinary,inhalation/ingestion
 Urinary incontinence,Gastro/Urinary,inhalation/ingestion
-"Urinary pain/
-burning",Gastro/Urinary,inhalation/ingestion
+Urinary pain/burning,Gastro/Urinary,inhalation/ingestion
 "Urination, bloody",Gastro/Urinary,inhalation/ingestion
 Vomiting,Gastro/Urinary,inhalation/ingestion
 Vomiting Blood,Gastro/Urinary,inhalation/ingestion
 Blistering,Skin,skin
-"Cyanosis/
-blue",Skin,skin
+Cyanosis/blue,Skin,skin
 Dry skin,Skin,skin
 Frostbite,Skin,skin
 itching,Skin,skin
-"Jaundice/
-yellow",Skin,skin
-"Numbness/
-tingling",Skin,skin
+Jaundice/yellow,Skin,skin
+Numbness/tingling,Skin,skin
 Pale,Skin,skin
-"Peeling/
-exfoliation",Skin,skin
+Peeling/exfoliation,Skin,skin
 Rash,Skin,skin
-"Skin burns/
-burning",Skin,skin
+Skin burns/burning,Skin,skin
 Skin redness,Skin,skin
 Skin sweling,Skin,skin
 Sweating,Skin,skin
